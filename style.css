@@ -266,9 +266,13 @@ h3 {
 }
 .catagories-title {
   margin-left: 20px;
+  margin-right: 20px;
   margin-bottom: 10px;
   border-bottom: 1px solid gray;
 }
-.cat-title h2 {
-  border: 1px solid red;
+.title-border {
+  width: 280px;
+  height: 5px;
+  margin-top: 10px;
+  background: #006a4e;
 }
